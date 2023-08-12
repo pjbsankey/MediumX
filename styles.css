@@ -94,11 +94,11 @@ body {
     transform: scale(0.8);
   }
 
-  50% {
+  25% {
     transform: scale(1.2);
   }
 
-  100% {
+  50% {
     transform: scale(0.8);
   }
 }
